@@ -3,7 +3,7 @@ html{
   font-family: Arial;
 }
 
-a{
+#button{
   border-style: double;
   color: azure;
   background-color: #007BFF;
