@@ -3,3 +3,8 @@ html{
   font-family: Arial;
 }
 
+a{
+  border-style: double;
+  font-color: #000000;
+  content-color: #ffffff;
+}
