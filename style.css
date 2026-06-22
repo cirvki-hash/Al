@@ -5,6 +5,10 @@ html{
 
 a{
   border-style: double;
-  color: #000000;
-  content: #ffffff;
+  color: azure;
+  background-color: #007BFF;
+  display: inline-block;
+  border-radius: 4px;
+  font-weight: bold;
+  cursor: pointer;
 }
