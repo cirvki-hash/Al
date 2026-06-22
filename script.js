@@ -1,3 +1,3 @@
 function Nothing(void){
-  prompt('hello');
+  alert('Hello World');
 }
