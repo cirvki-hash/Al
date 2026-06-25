@@ -2,14 +2,3 @@ html{
   background-color: #cccccc;
   font-family: Arial, Helvetica, sans-serif;
 }
-
-#button{
-  border-style: double;
-  color: azure;
-  background-color: #007BFF;
-  display: inline-block;
-  border-radius: 4px;
-  font-weight: bold;
-  cursor: pointer;
-  font-family: Arial, Helvetica, sans-serif
-}
