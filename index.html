@@ -2,13 +2,6 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <script src="script.js">
-            var c = document.getElementById("myCanvas");
-            var ctx = c.getContext("2d");
-            ctx.moveTo(0, 0);
-            ctx.lineTo(200, 100);
-            ctx.stroke();
-        </script>
         <link rel="stylesheet" href="style.css"/>
         <link rel="icon" type="image/png" href="icon.png">
     </head>
@@ -17,5 +10,13 @@
         <h2>This is something</h2>
         <canvas width="500px" height="300px" style="border:1px solid #000000;"
             id="myCanvas"></canvas>
+        
+        <script src="script.js">
+            var c = document.getElementById("myCanvas");
+            var ctx = c.getContext("2d");
+            ctx.moveTo(0, 0);
+            ctx.lineTo(200, 100);
+            ctx.stroke();
+        </script>
     </body>
 </html>
