@@ -1,3 +1,3 @@
-function Nothing(void){
+function Nothing(){
   alert('Hello World');
 }
